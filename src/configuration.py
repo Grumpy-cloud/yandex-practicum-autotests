@@ -1,4 +1,4 @@
-URL = 'https://0cd33576-c8f7-4d0c-b396-ceb725cf4b2f.serverhub.praktikum-services.ru'
+URL = ''
 
 # ======Пути запросов====== #
 # ===POST=== #
